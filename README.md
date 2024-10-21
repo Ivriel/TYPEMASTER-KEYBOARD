@@ -1,8 +1,24 @@
-# React + Vite
+# Typemaster
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Typemaster is an SME (Small and Medium-sized Enterprise) project focused on selling custom keyboards. This project is built using React along with several supporting libraries such as AOS (Animate on Scroll), Bootstrap, React Icons, and React Carousel.
 
-Currently, two official plugins are available:
+## Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Node.js (version 14.x or above)
+- npm (Node Package Manager)
+
+## Getting Started
+
+Follow these steps to set up and run the project on your local machine.
+
+### 1. Clone the repository
+
+Use the following command to clone the repository:
+
+```bash
+git clone https://github.com/Ivriel/react-tugas2-ivriel.git
+cd react-tugas2-ivriel
+npm install
+npm run dev
+```
+### NO RESPONSIVE DEKSTOP ONLY (EXCEPT CARD)
