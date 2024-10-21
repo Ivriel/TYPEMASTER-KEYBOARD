@@ -1,0 +1,46 @@
+.card-item {
+    margin: 20px 15px; 
+    padding: 20px;
+    border: 1px solid rgb(239, 239, 239); 
+    border-radius: 10px; 
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1); 
+    text-align: center; 
+    background-color: #fff; 
+    height: 94%;
+    transition: 0.2s;
+}
+.card-item:hover {
+    transform: translateY(-10px);
+    transition: 0.2s;
+    cursor: pointer;
+}
+.product--image {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain; 
+    border-radius: 5px; 
+}
+
+.carousel {
+    padding-bottom: 30px; 
+}
+
+.btn-card {
+    background-color: #F16718;
+    border: none;
+    color: white;
+    padding: 10px 50px; 
+    border-radius: 5px;
+    font-size: 16px; 
+ margin-top: 5px;
+}
+
+.btn-card:hover {
+    background-color: green;
+}
+.k4 {
+    margin-top: 15px;
+}
+.range-cards {
+    margin-top: 150px;
+}

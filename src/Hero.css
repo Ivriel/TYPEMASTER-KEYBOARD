@@ -1,0 +1,62 @@
+.image-hero {
+    width: 500px;
+    height: 500px;
+}
+.distance-hero {
+    padding: 0px 50px;
+}
+.height {
+    height: 100vh;
+}
+.font-header {
+    font-size: 60px;
+}
+.text-hero {
+    color: rgba(105, 105, 105, 0.918);
+}
+.text-hero-bold {
+    color: grey;
+}
+.text-hero-bold:hover {
+    color: rgb(162, 162, 162);
+}
+.button-hero {
+    background-color: #F16718;
+}
+.no-underline {
+    text-decoration: none;
+}
+.button-hero:hover {
+    background-color: green;
+}
+.description-hero {
+    margin-top: 100px;
+}
+#hero-detail h1{
+    margin-bottom: 0;
+    color: #2e2e2e;
+}
+.hero-icon {
+    background-color: #F16718;
+    padding: 15px;
+    border-radius: 12px;
+}
+.hero-icon-bluetooth {
+    background-color: #F16718;
+    padding: 10px 16px;
+    border-radius: 12px;
+}
+.hero-icon-battery {
+    background-color: #F16718;
+    padding: 12px 14px;
+    border-radius: 12px;
+}
+.desc-detail {
+    font-size: 11px;
+}
+.gap-detail {
+    gap: 80px;
+}
+.range-about {
+    margin-top: 120px;
+}

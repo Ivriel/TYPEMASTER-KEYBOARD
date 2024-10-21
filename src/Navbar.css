@@ -1,0 +1,25 @@
+.no-underline {
+    text-decoration: none;
+}
+.nav-height {
+    height: 70px;
+}
+.gap-list {
+    gap: 60px;
+}
+.hover-underline:hover{
+    text-decoration: underline;
+  }
+ .btn-hero {
+    padding: 5px 12px;
+    border-radius: 10%;
+    border: none;
+    background-color: #F16718;
+  }
+  .btn-hero:hover {
+    background-color: #ff7728;
+  }
+  .bg-nav {
+    background-color: transparent;
+    backdrop-filter: blur(4px);
+  }
