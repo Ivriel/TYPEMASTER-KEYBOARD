@@ -16,8 +16,8 @@ Follow these steps to set up and run the project on your local machine.
 Use the following command to clone the repository:
 
 ```bash
-git clone https://github.com/Ivriel/react-tugas2-ivriel.git
-cd react-tugas2-ivriel
+git clone https://github.com/Ivriel/TYPEMASTER-KEYBOARD.git
+cd typemaster-keyboard
 npm install
 npm run dev
 ```
